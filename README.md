@@ -19,6 +19,7 @@
 📌 **[IT Troubleshooting & Work Portfolio](https://github.com/WavTech/IT-Troubleshooting-Log)** – A collection of real-world troubleshooting cases  
 📌 **[System Admin Toolkit](https://github.com/WavTech/System-Admin-Toolkit)** – Handy scripts & tools for everyday IT tasks  
 📌 **[Cybersecurity Playbook](https://github.com/WavTech/Cybersecurity-Playbook)** – Security guidelines, best practices, and compliance tips  
+📌 **[My Cybersecurity Stack](https://github.com/WavTech/Home-Cybersecurity-Stack)** – A secure, private, and efficient digital environment designed to protect against malware, phishing, unauthorized tracking, and data loss while ensuring end-to-end encryption for sensitive information.  
 
 ---
 
