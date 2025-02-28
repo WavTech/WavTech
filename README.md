@@ -31,11 +31,10 @@
 ---
 
 ### **📫 Let's Connect!**
-💼 **LinkedIn:** [linkedin.com/in/cameron-v-624773317/](https://www.linkedin.com/in/cameron-v-624773317/)  
-🌐 **GitHub Portfolio:** [github.com/CameronVester](https://github.com/CameronVester)  
+💼 **LinkedIn:** [linkedin.com/in/cameron-v-624773317/](https://www.linkedin.com/in/cameron-v-624773317/)    
 🚀 **WavTech GitHub Organization:** [github.com/WavTech](https://github.com/WavTech)  
 📂 **IT Troubleshooting Log:** [github.com/WavTech/IT-Troubleshooting-Log](https://github.com/WavTech/IT-Troubleshooting-Log)  
-📧 **Email:** cameron.vester@example.com *(replace with your real email)*  
+📧 **Email:** cameron.vester@tech901.org *(replace with your real email)*  
 
 ---
 
