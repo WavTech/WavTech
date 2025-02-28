@@ -17,8 +17,8 @@
 
 ### **📂 Featured Projects**
 📌 **[IT Troubleshooting & Work Portfolio](https://github.com/WavTech/IT-Troubleshooting-Log)** – A collection of real-world troubleshooting cases  
-📌 **[System Admin Toolkit](https://github.com/CameronVester/System-Admin-Toolkit)** – Handy scripts & tools for everyday IT tasks  
-📌 **[Cybersecurity Playbook](https://github.com/CameronVester/Cybersecurity-Playbook)** – Security guidelines, best practices, and compliance tips  
+📌 **[System Admin Toolkit](https://github.com/WavTech/System-Admin-Toolkit)** – Handy scripts & tools for everyday IT tasks  
+📌 **[Cybersecurity Playbook](https://github.com/WavTech/Cybersecurity-Playbook)** – Security guidelines, best practices, and compliance tips  
 
 ---
 
