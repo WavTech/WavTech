@@ -26,9 +26,9 @@
 
 ### **📊 My Tech Stack**
 💻 **Operating Systems**: Windows, macOS, Linux  
-🔧 **Tools & Platforms**: Microsoft 365, ThreatLocker, SonicWall, RMM solutions  
+🔧 **Tools & Platforms**: Microsoft 365, Intune, Prisym, 3x Logic, Blue Mountain RAM, Crowdstrike, ThreatLocker, SonicWall, RMM solutions, FortiGate/Client, Fresh Service, Oracle, etc  
 🛠 **Scripting & Automation**: PowerShell, Bash  
-📡 **Networking & Security**: VPN setup, MFA, Firewalls  
+📡 **Networking & Security**: VPN setup, MFA, Firewalls, Switch Configs, Tracing, Outage mediation, Closet/IDf cable management, terminations & quad drops  
 
 ---
 
