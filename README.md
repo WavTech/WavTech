@@ -17,7 +17,7 @@
 
 ### 📂 Featured Projects
 📌 **[IT Troubleshooting & Work Portfolio](https://github.com/WavTech/IT-Troubleshooting-Log)** – A collection of real-world troubleshooting cases  
-📌 **[Enterprise Ransom Event & Response (Dec 2025)](https://github.com/WavTech/Surviving-a-Major-Ransomware-Event)** – Real-world ransomware incident response, infrastructure recovery, and security improvements  
+📌 **[Enterprise Ransom Event & Response (Dec 2025)](https://github.com/WavTech/Surviving-a-Major-Ransomware-Event)** – Enterprise ransomware incident response, infrastructure recovery, and security improvements  
 📌 **[System Admin Toolkit](https://github.com/WavTech/System-Admin-Toolkit)** – Handy scripts & tools for everyday IT tasks  
 📌 **[Cybersecurity Playbook](https://github.com/WavTech/Cybersecurity-Playbook)** – Security guidelines, best practices, and compliance tips  
 📌 **[My Cybersecurity Stack](https://github.com/WavTech/Home-Cybersecurity-Stack)** – A secure, private digital environment designed to protect against malware, phishing, unauthorized tracking, and data loss
