@@ -89,7 +89,7 @@ https://github.com/WavTech
 https://github.com/WavTech/IT-Troubleshooting-Log
 
 📧 **Email**  
-cameron.vester@tech901.org
+cameronvester.IT@gmail.com
 
 ---
 
