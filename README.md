@@ -2,15 +2,15 @@
 
 **🧰 [Wav Tech — IT Projects & Client Portfolio](https://github.com/WavTech/Wav-Tech-Portfolio)**
 
-**Data Center Operations | Site IT | Network Infrastructure**  
+**Data Center Infrastructure | Site IT | Network Infrastructure**  
 **Enterprise Networking | Systems | Infrastructure Operations**  
 **Automation | Troubleshooting | Operational Resilience**
 
-I’m an infrastructure-focused IT professional whose experience has grown from end-user and MSP support into hands-on ownership of enterprise site infrastructure, networking, systems, incident response, and now hyperscale data center operations.
+I’m an infrastructure-focused IT professional whose experience has grown from end-user and MSP support into hands-on ownership of enterprise site infrastructure, networking, systems, and incident response.
 
-My next chapter includes joining **xAI as an Associate Data Center Operations Technician**, expanding my experience into large-scale compute infrastructure and data center operations while continuing to build deeper networking, Linux, automation, and infrastructure engineering skills.
+My background includes supporting business-critical environments, configuring and troubleshooting network infrastructure, working with enterprise wireless and switching, supporting systems and endpoint infrastructure, coordinating vendors, and handling site-level IT operations from the user layer through the physical infrastructure.
 
-I’m working toward roles where I can own increasingly larger pieces of infrastructure — from a site, to a network, to the systems and platforms behind large-scale compute environments.
+I’m continuing to build deeper skills in networking, Linux, automation, data center technologies, and infrastructure engineering, with the goal of taking ownership of increasingly larger pieces of infrastructure — from a site, to a network, to the systems and platforms behind large-scale compute environments.
 
 ---
 
@@ -27,7 +27,7 @@ I’m working toward roles where I can own increasingly larger pieces of infrast
 - Switch configuration and Layer 2 troubleshooting
 - VLANs, trunking, port configuration, MAC/ARP analysis, and IP troubleshooting
 - DHCP, DNS, VPN, firewall, and routing fundamentals
-- Fortinet, SonicWall, wireless, and enterprise network troubleshooting
+- Fortinet, SonicWall, Cisco wireless, and enterprise network troubleshooting
 - Copper/fiber infrastructure and physical network deployment
 - Building toward deeper routing, switching, network design, and network engineering
 
@@ -38,10 +38,10 @@ I’m working toward roles where I can own increasingly larger pieces of infrast
 - Virtualization, backup/recovery, RMM, and enterprise support platforms
 - PowerShell administration and troubleshooting
 
-### Data Center Operations
-- Beginning the next stage of my career in hyperscale data center operations at **xAI**
-- Expanding into server hardware, break/fix, rack-level infrastructure, cabling, and large-scale compute operations
-- Developing deeper Linux, hardware diagnostics, network infrastructure, and data center troubleshooting skills
+### Data Center & Infrastructure Development
+- Building toward data center operations and infrastructure engineering roles through hands-on networking, systems, physical infrastructure, and enterprise site operations
+- Developing skills around server hardware, rack-level infrastructure, cabling, Linux, hardware diagnostics, and large-scale compute environments
+- Expanding practical knowledge of data center networking, reliability, automation, and infrastructure troubleshooting
 - Interested in the intersection of compute, networking, automation, reliability, and AI infrastructure
 
 ### Security & Operational Resilience
@@ -61,7 +61,7 @@ I’m working toward roles where I can own increasingly larger pieces of infrast
 
 ## Career Direction
 
-My career target is no longer limited to traditional IT support or systems administration. The combination of enterprise site ownership and hyperscale data center experience opens several infrastructure engineering paths I’m actively building toward.
+My career target is no longer limited to traditional IT support or systems administration. My enterprise site infrastructure experience and continued development in networking, Linux, automation, and data center technologies are building toward several infrastructure engineering paths.
 
 **Primary paths**
 - Network Engineer / Data Center Network Engineer
